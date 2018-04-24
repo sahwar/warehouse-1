@@ -6,3 +6,9 @@ There are two files in Zip: zh_CN & zh_CN.mtr
 zh_CN is a translation file.
 
 zh_CN.mtr is a translation application file. (sudo cp zh_CN.mtr /usr/local/share/azpainter/tr)
+
+**********************************************
+
+AzPainter for Linux ver 2.x 简体中文翻译 2017-2018
+
+Translators 译者: SenlinOS (森林OS)
