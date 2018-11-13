@@ -2,6 +2,8 @@
 Copyright (C) 2013-2018 Azel azelpg@gmail.com
 
 http://azsky2.html.xdomain.jp/linux/azpainter.html
+
+Download 下载: [The Latest Version](https://osdn.net/projects/azpainter/downloads/70132/azpainter-2.1.3.tar.xz/)
 **********************************************
 # README
 2018-10-06, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.3.zip
